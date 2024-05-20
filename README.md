@@ -1,6 +1,6 @@
 # Ranking de videos
 ## YouTops
-Demo: [https://canutrips.netlify.app](https://youtops.netlify.app)
+Demo: https://youtops.netlify.app
 
 ## Sitio Web
 -Pagina principal: En la pagina principal podras ver el ranking de los 8 videos mas vistos de youtube.
