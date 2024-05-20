@@ -71,3 +71,34 @@ body {
         padding: 10px;
 
 }
+
+
+@media screen and (max-width: 940px) {
+    .card{
+        width: 350px;
+    }   
+    
+}
+
+@media screen and (max-width: 700px) {
+    .logo{
+        width: 250px;
+        height: 120px;
+    }   
+    header {
+        height: 150px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .logo {
+        width: 200px;
+        height: 100px;
+    }
+    header {
+        height: 90px;
+    }
+    .video {
+        height: 250px;
+    }
+}
