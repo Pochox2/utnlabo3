@@ -18,6 +18,7 @@ header {
 
 body {
     background-image: url(/img/fondo.png);
+    font-family: Verdana, sans-serif;
     background-size: contain;
     background-repeat: repeat-y;
 }
@@ -91,7 +92,7 @@ body {
 }
 
 @media screen and (max-width: 400px) {
-    .logo {
+    .logo{
         width: 200px;
         height: 100px;
     }
